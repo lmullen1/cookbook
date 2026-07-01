@@ -1,0 +1,4 @@
+const recipes = [
+    ...breadRecipies,
+    ...sideRecipies
+];
