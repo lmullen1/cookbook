@@ -1,4 +1,11 @@
 const recipes = [
+    ...beefRecipes,
     ...breadRecipies,
-    ...sideRecipies
+    ...breakfastRecipes,
+    ...dessertRecipes,
+    ...drinkRecipes,
+    ...pastaRecipes,
+    ...poultryRecipes,
+    ...sideRecipes,
+    ...soupRecipes
 ];

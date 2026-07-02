@@ -1,4 +1,4 @@
-const sideRecipies = [
+const sideRecipes = [
     {
         "title": "Ooey Gooey Mac and Cheese",
         "category": "Sides",
@@ -22,5 +22,5 @@ const sideRecipies = [
             "Pour into baking pan",
             "Bake for 40-45 minutes"
         ]
-    }
+    } // End Ooeg Gooey Mac and Cheese
 ];
