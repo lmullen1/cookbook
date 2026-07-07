@@ -389,5 +389,70 @@ const dessertRecipes = [
             "Bake at 375 for 9-10 minutes",
             "Put kisses in the center of cookie while they are warm"
         ]
-    } // End Peanut Butter Blossoms
+    }, // End Peanut Butter Blossoms
+    {"title": "Peach Cobbler Bars",
+        "category": "Desserts",
+        "ingredients": [
+            {"section": "Peach Filling",
+                "items": [
+                    "2 cups diced peaches",
+                    "3 tbsp brown sugar",
+                    "1/4 tsp cinnamon",
+                    "pinch of nutmeg",
+                    "1/2 tsp lemon juice",
+                    "1 1/2 tsp corn starch",
+                    "1 1/2 tsp water",
+                    "1/2 tsp vanilla"
+                ]
+            },
+            {"section": "Bars",
+                "items": [
+                    "3/4 cup melted butter",
+                    "1 1/2 cups flour",
+                    "1 cup oats",
+                    "3/4 cup brown sugar",
+                    "3/4 tsp baking soda",
+                    "1/4 tsp salt",
+                    "1/2 tsp cinnamon",
+                    "All the filling"
+                ]
+            },
+            {"section": "Glaze",
+                "items": [
+                    "1/2 cup powdered sugar",
+                    "1 tbsp water",
+                    "1/2 tsp vanilla",
+                    "Cinnamon to taste"
+                ]
+            }
+        ],
+        "instructions": [
+            {"section": "Peach Filling",
+                "steps": [
+                    "Add diced peaches, sugar, lemon juice, cinnamon, and nutmeg to a sauce pan over medium heat",
+                    "Cook 4-6 minutes",
+                    "Make the corn starch slurry and add to peach mixture",
+                    "Cook for 1 minute then remove from heat",
+                    "Stir in vanilla and let cool"
+                ]
+            },
+            {"section": "Bars",
+                "steps": [
+                    "Spray a 9x9 pan with nonstick spray",
+                    "Preheat oven to 350",
+                    "Melt the butter",
+                    "Stir in remaining bar ingredients",
+                    "Reserve 1 cup for topping and press remaining into pan",
+                    "Bake for 10 minutes",
+                    "Spread filling on top base and sprinkle reserved crumble over top",
+                    "Bake for 28-33 minutes"
+                ]
+            },
+            {"section": "Glaze",
+                "steps": [
+                    "Whisk glaze ingredients together and drizzle on top of colled bars"
+                ]
+            }
+        ]
+    }
 ];
