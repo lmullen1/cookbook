@@ -441,7 +441,7 @@ const dessertRecipes = [
                     "Spray a 9x9 pan with nonstick spray",
                     "Preheat oven to 350",
                     "Melt the butter",
-                    "Stir in remaining bar ingredients",
+                    "Stir in remaining bar ingredients except filling",
                     "Reserve 1 cup for topping and press remaining into pan",
                     "Bake for 10 minutes",
                     "Spread filling on top base and sprinkle reserved crumble over top",
@@ -450,7 +450,7 @@ const dessertRecipes = [
             },
             {"section": "Glaze",
                 "steps": [
-                    "Whisk glaze ingredients together and drizzle on top of colled bars"
+                    "Whisk glaze ingredients together and drizzle on top of cooled bars"
                 ]
             }
         ]
